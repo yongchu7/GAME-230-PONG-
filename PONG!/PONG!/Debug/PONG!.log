@@ -1,0 +1,7 @@
+﻿  ball.cpp
+c:\users\51565\onedrive\documents\visual studio 2017\projects\pong!\pong!\ball.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  paddle.cpp
+  game.cpp
+  PONG!.vcxproj -> C:\Users\51565\OneDrive\Documents\Visual Studio 2017\Projects\PONG!\Debug\PONG!.exe
